@@ -11,6 +11,7 @@ function Hero() {
         <p className="mt-6 max-w-xl text-lg leading-8 text-slate-600 dark:text-slate-400">I build responsive web applications using React, Node.js, Express, MongoDB and AI-assisted development tools. I am creating real projects and preparing for remote opportunities.</p>
         <div className="mt-8 flex flex-wrap gap-4">
           <a href="#projects" className="rounded-lg bg-cyan-400 px-6 py-3 font-bold text-slate-950 transition hover:bg-cyan-300">View Projects</a>
+          <a href="#contact" className="flex items-center gap-2 rounded-lg border border-cyan-500 px-6 py-3 font-bold text-cyan-600 transition hover:bg-cyan-500 hover:text-slate-950 dark:border-cyan-400 dark:text-cyan-400">Contact Me</a>
         </div>
         <div className="mt-8 flex gap-5 text-2xl">
           <a href="https://github.com/parash0725" target="_blank" rel="noreferrer" aria-label="GitHub" className="text-slate-600 transition hover:text-cyan-600 dark:text-slate-400 dark:hover:text-cyan-400"><FaGithub /></a>

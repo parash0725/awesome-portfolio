@@ -62,6 +62,10 @@ npm run build
 
 The generated production files are written to `professional-portfolio/dist`.
 
+## Live Website
+
+Deployment pending.
+
 ## Deployment
 
 Recommended Vercel settings:
@@ -71,8 +75,6 @@ Recommended Vercel settings:
 - Build command: `npm run build`
 - Output directory: `dist`
 - Install command: `npm install`
-
-The production URL will be added here after the first Vercel deployment.
 
 ## Author
 
