@@ -7,13 +7,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
 function App() {
-  return (
-    <div className="min-h-screen bg-slate-950 text-slate-100">
-      <Navbar />
-      <main><Hero /><About /><Skills /><Projects /><Contact /></main>
-      <Footer />
-    </div>
-  );
+  return <div className="min-h-screen bg-white text-slate-950 transition-colors dark:bg-slate-950 dark:text-slate-100"><Navbar /><main><Hero /><About /><Skills /><Projects /><Contact /></main><Footer /></div>;
 }
 
 export default App;
