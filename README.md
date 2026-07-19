@@ -30,7 +30,7 @@ I am currently learning:
 
 ## Live Website
 
-https://YOUR-USERNAME.github.io/awesome-portfolio/
+https://parash0725.github.io/awesome-portfolio/
 
 ## Author
 
